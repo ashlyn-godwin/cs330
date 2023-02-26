@@ -16,7 +16,7 @@ Computer Graphics And Visualization
 
     How do I approach developing programs?
         What new development strategies did you use while working on your 3D scene?
-        - 
+        - The main new strategy I tried was writing down all of the functional pieces of the program and then sorting them by what they did. An example of this would be the uniforms for the shaders used in the final project. I wrote on paper all of the uniforms and whether or not they were universal for all shapes or individualized. After this, I was able to structure my code in the Render function in order to clearly identify what to change for each object. 
         How did iteration factor into your development?
         -Iteration was incredibly important to developing this project. All of the milestones built upon the functionality of the last which allowed for a lot of the rendering process to be completed piece by piece. 
         How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
@@ -24,5 +24,4 @@ Computer Graphics And Visualization
         
     How can computer science help me in reaching my goals?
         How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-        -
-        How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+        - Having an understanding of computer graphics and visualizations gave me several useful skills. For one, I now know how computers display 3D images, which would be useful in any career related to game design or 3D visualization. More importantly, OpenGL was a very good example for practicing working with APIs. My experience with API usage was fairly limited before this class so getting the extra practice building off and using OpenGL will be extremely beneficial for my future educational path. 
